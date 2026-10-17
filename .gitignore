@@ -1,0 +1,16 @@
+# Dependencies & build output
+node_modules
+dist
+*.tsbuildinfo
+
+# Local tooling / notes
+.claude
+to_run.txt
+
+# Logs & OS / editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea
